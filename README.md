@@ -7,4 +7,4 @@
 > - [ ]  [udacity](https://classroom.udacity.com/courses/ud730)
 
 ### websites
-> - [ ]  [neuralnetworks and deeplearning](https://neuralnetworksanddeeplearning.com)
+> - [ ]  [neuralnetworks and deeplearning](http://neuralnetworksanddeeplearning.com)
