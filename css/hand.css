@@ -807,7 +807,7 @@
   }
   100% {
     bottom: 3px;
-    height: 14px;
+    height: 14px;white
     -webkit-border-radius: 10px 10px 7px 7px;
     -webkit-background-clip: padding-box;
     -moz-border-radius: 10px 10px 7px 7px;

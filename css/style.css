@@ -8,5 +8,17 @@
 }
 
 #todolist {
-    color: white;
+    margin-left: 20vw;
+    display: none;
+    color: green;
+    width: 100%;
+ 
+    font-size: 3.5vw;
+    font-family: 'Amatic SC', cursive;
+
+}
+
+#todolist h2 {
+    font-size: 3vw;
+    color:red;
 }
