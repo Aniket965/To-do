@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:700');
+.welcome {
+    display: none;
+    width: 100%;
+    text-align: center;
+    font-size: 4vw;
+    font-family: 'Amatic SC', cursive;
+}
