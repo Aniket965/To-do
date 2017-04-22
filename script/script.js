@@ -2,11 +2,16 @@ $(document).ready(function () {
     var handgone = false;
     setInterval(function () {
         $('.loading').fadeOut(1000);
-        $('#todolist').fadeIn(1000);
+
         if (handgone === false) {
             $('#welcome').fadeIn(1000);
+            setInterval(function () {
+                if(handgone){
+                    $('#welcome').fadeOut(1000);
+                }
+                $('#todolist').fadeIn(1000);
+            }, 1000);
             handgone = true;
-
         }
 
     }, 5000);
