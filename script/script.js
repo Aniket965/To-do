@@ -10,9 +10,22 @@ $(document).ready(function () {
 
     }, 5000);
     $('#welcome').css("color", "red");
-    $('#todolist').html(markdown.toHTML('Hello.\n\n* This is markdown.\n* It is fun\n* Love it or leave it'));});
+    $('#todolist').html(markdown.toHTML(getText('https://github.com/Aniket965/fampool/blob/master/README.md')));});
 
-    $.get("https://github.com/Aniket965/fampool/blob/master/README.md?raw=true", function(data, status){
-        alert("Data: " + data + "\nStatus: " + status);
+//     $.get("https://github.com/Aniket965/fampool/blob/master/README.md?raw=true", function(data, status){
+//         alert("Data: " + data + "\nStatus: " + status);
 
-});
+// });
+
+ function getText(myUrl){
+            var result = null;
+            $.ajax( { url: myUrl, 
+                      type: 'get', 
+                      dataType: 'html',
+                      async: false,
+                      success: function(data) { result = data; } 
+                    }
+            );
+            FileReady = true;
+            return result;
+        }
