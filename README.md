@@ -7,4 +7,9 @@
 > - [ ]  [udacity](https://classroom.udacity.com/courses/ud730)
 
 ### websites
-> - [ ]  [neuralnetworks and deeplearning](http://neuralnetworksanddeeplearning.com)
+> - [ ]  [neuralnetworks and deeplearning](http://neuralnetworksanddeeplearning.com)
+
+
+## python 
+### books
+> - [ ] [fb link ](https://reactdom.com/blog/python-books)
