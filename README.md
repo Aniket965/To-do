@@ -1,4 +1,8 @@
 # To Do
+## ideas
+## webapps
+> - [ ] code offers list with toggles
+
 ## Deep learning & Neural network
 ### courses
 > - [ ]  [kdanze course](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
