@@ -19,6 +19,10 @@
 ### websites
 
  [neuralnetworks and deeplearning](http://neuralnetworksanddeeplearning.com)
+ 
+### Articles
+
+[big-picture-machine-learning](https://medium.freecodecamp.com/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274)
 
 
 ## python 
