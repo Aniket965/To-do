@@ -1,5 +1,7 @@
 # To Do
 ## ideas
+## Algorithms breaking
+ Hash speeding
 ## webapps
 
  code offers list with toggles
@@ -39,3 +41,5 @@
 ## Linux Kernal
 
 ## Lisp & Prolog
+
+## scala 
