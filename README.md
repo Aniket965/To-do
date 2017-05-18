@@ -5,7 +5,13 @@
 ## webapps
 
  code offers list with toggles
-
+## Random
+ Alferd
+ SynCMus
+ plank Selector
+ MLjs
+ cobraProcessing
+ ipurs
 ## Deep learning & Neural network
 ### courses
  [kdanze course](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
@@ -43,3 +49,6 @@
 ## Lisp & Prolog
 
 ## scala 
+## kotlin
+## dart
+## go
